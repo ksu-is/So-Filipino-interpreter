@@ -1,5 +1,5 @@
 # alien-human-interpreter
-This repositories contains two projects coded in different ways :
+This repository contains a coding project that translates words and phrases from English from one of the three dialects in the Filipino language (still editing this README.md) :
 ## First interpreter
 ### Contains :
 [Project link](https://github.com/laibanasir/alien-human-interpreter/blob/master/alienhuman%20interpreter.py)
