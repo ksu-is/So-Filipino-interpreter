@@ -1,4 +1,4 @@
-# alien-human-interpreter
+# So-Filipino-interpreter
 This repository contains a coding project that translates words and phrases from English from one of the three dialects in the Filipino language (still editing this README.md) :
 ## First interpreter
 ### Contains :
