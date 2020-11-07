@@ -1,6 +1,6 @@
 # So-Filipino-interpreter
 This repository contains a coding project that translates words and phrases from English from one of the three dialects in the Filipino language (still editing this README.md) :
-## First Interpreter
+## First Interpreter - Dialect: Tagalog
 ### Contains :
 [Project link] To be filled in soon in another sprint
 
@@ -14,7 +14,7 @@ This repository contains a coding project that translates words and phrases from
 This program uses text file which contains data in dictionary format and reads it back as key, values 
 and gives the translation for the required word.
 
-## Second Interpreter
+## Second Interpreter - Dialect: Bisaya/Cebuano
 ### Contains :
 [Project link] To be filled in soon in another sprint
 
@@ -27,7 +27,7 @@ and gives the translation for the required word.
 
 This program uses csv module that also lets the user add a word with its translation into the dictionary.
 
-## Third Interpreter
+## Third Interpreter - Dialect: Waray
 ### Contains :
 [Project link]To be filled in soon in another sprint
 
