@@ -2,9 +2,9 @@
 This repository contains a coding project that translates words and phrases from English from one of the three dialects in the Filipino language (still editing this README.md) :
 ## First Interpreter
 ### Contains :
-[Project link](https://github.com/laibanasir/alien-human-interpreter/blob/master/alienhuman%20interpreter.py)
+[Project link] To be filled in soon in another sprint
 
-[File link](https://github.com/laibanasir/alien-human-interpreter/blob/master/englishdict.txt)
+[File link] To be filled in soon in another sprint
 
 #### Features
 1. Translates English to Tagalog
@@ -16,9 +16,9 @@ and gives the translation for the required word.
 
 ## Second Interpreter
 ### Contains :
-[Project link](https://github.com/laibanasir/alien-human-interpreter/blob/master/alienhuman%20interpreter%202.py)
+[Project link] To be filled in soon in another sprint
 
-[File link](https://github.com/laibanasir/alien-human-interpreter/blob/master/dictionary2.csv)
+[File link] To be filled in soon in another sprint
 
 #### Features
 1. Translates English to Bisaya/Cebuano 
@@ -29,9 +29,9 @@ This program uses csv module that also lets the user add a word with its transla
 
 ## Third Interpreter
 ### Contains :
-[Project link](https://github.com/laibanasir/alien-human-interpreter/blob/master/alienhuman%20interpreter%202.py)
+[Project link]To be filled in soon in another sprint
 
-[File link](https://github.com/laibanasir/alien-human-interpreter/blob/master/dictionary2.csv)
+[File link] To be filled in soon in another sprint
 
 #### Features
 1. Translates English to Waray 
