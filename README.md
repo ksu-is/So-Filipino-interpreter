@@ -42,4 +42,4 @@ This program uses csv module that also lets the user add a word with its transla
 
 #### Coded on : Visual Studio Code 
 
-#### Language used : Python 3.7
+#### Language used : Python 3.8
