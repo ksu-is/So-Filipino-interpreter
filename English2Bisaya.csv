@@ -1,16 +1,23 @@
-Good morning,Maayong buntag
-Hello (formal),Maayong adlaw
-Good afternoon,Maayong hapon
-Good evening,Maayong gabii
-How are you?,Kumusta ka?
-Yes,Oo
-No,Dili
-Thank you,Salamat po
-Thank you very much,Daghang salamat
-May I ask a question,Mahimo ba ako mangutana?
-Bye,Amping
-Take care,Amping
-How much?,Tagpila?
+good morning,Maayong buntag
+hello (formal),Maayong adlaw
+good afternoon,Maayong hapon
+good evening,Maayong gabii
+how are you?,Kumusta ka?
+yes,Oo 
+no,Dili
+thank you,Salamat po
+thank you very much,Daghang salamat
+may I ask a question,Mahimo ba ako mangutana?
+how much,Tagpila?
+bye,Amping
+take care,Amping
+where is the bathroom?,Aha man banyo?
+where is the restroom?,Aha man banyo?
+how do I get to [Insert location here]?,Kanos-a man ko magkaata sa [Insert location here]?
+let's eat!,Mangaon nata?
+how old are you?,Pila na imo edad?
+I am [Insert age here] years old?,[Insert age here] na akong edad.
+may I have some mineral water?, Tagae ko ug tubig be? (Foreigners do not drink the regular tap water in the Philippines)
 1,Usa
 2,Duha
 3,Tulo
@@ -32,4 +39,4 @@ How much?,Tagpila?
 19,Napulo ug siyam
 20,Kawhaan or Baynte
 50,Kalim-an or Singkwenta
-100, Usa ka gatos
+100,Usa ka gatos
