@@ -11,9 +11,9 @@
     - [x]Make English 2 Tagalog csv file
     - [x]Make Enlgish 2 Bisaya csv file
     - [x]Make Enlgish 2 Waray csv file
-    - []Write code for English 2 Tagalog translator
-    - []Write code for Englsih 2 Bisaya translator
-    - []Write code for English 2 Waray translator
+    - [x]Write code for English 2 Tagalog translator
+    - [x]Write code for Englsih 2 Bisaya translator
+    - [x]Write code for English 2 Waray translator
   - [] Comment what you did for each code change and why you did it
   - [] Test your any of your codes twice before completing the sprint (if applicable)
   - [] Make sure all necessary boxes are checked so far and add any necessary tasks along the way
