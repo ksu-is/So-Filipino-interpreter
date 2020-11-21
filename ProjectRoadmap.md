@@ -15,8 +15,8 @@
     - [x]Write code for Englsih 2 Bisaya translator
     - [x]Write code for English 2 Waray translator
   - [] Comment what you did for each code change and why you did it
-  - [] Test your any of your codes twice before completing the sprint (if applicable)
-  - [] Make sure all necessary boxes are checked so far and add any necessary tasks along the way
+  - [x] Test your any of your codes twice before completing the sprint (if applicable)
+  - [x] Make sure all necessary boxes are checked so far and add any necessary tasks along the way
 
 ## Sprint 3
   - [] Continue to make your significant changes
